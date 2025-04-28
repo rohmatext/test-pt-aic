@@ -116,3 +116,9 @@ Fitur utama:
 | Integrasi API antara Next.js dan Laravel                                          | Menggunakan library `axios` di Next.js untuk komunikasi dengan API Laravel dengan error handling yang memadai. |
 
 ---
+
+## 🔗 Dokumentasi API
+
+Untuk dokumentasi lengkap dan testing endpoint API, dapat diakses melalui link Postman berikut:
+
+[Postman API Documentation](https://www.postman.com/rohmatext/workspace/pt-aic/collection/4732663-cd4c6136-facf-4f65-be58-9fe414f687a8?action=share&creator=4732663)
