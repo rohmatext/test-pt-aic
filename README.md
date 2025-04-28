@@ -86,7 +86,14 @@ Fitur utama:
    ```bash
    php artisan migrate
    ```
-5. Jalankan server Laravel:
+5. Jalankan seeder database untuk membuat data dummy:
+   ```bash
+   php artisan db:seed
+   ```
+   Seeder akan membuat data:
+   - Roles: `admin`, `manager` dan `employee`.
+   - User: `admin@example.com` dengan password `password` dan role sebagai `admin`.
+6. Jalankan server Laravel:
    ```bash
    php artisan serve
    ```
